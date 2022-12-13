@@ -8,8 +8,10 @@ header:
   actions:
     - label: "Learn More"
       url: "/about"
+  
 excerpt: >
   A place to learn, play, and have fun! <br /><br /><br /><br /><br />
+
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: /assets/images/WinterChessChallenge.png
@@ -19,7 +21,7 @@ feature_row:
     url: "/tournament/wintercc/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: assets/images/WindsorCEPWinter.png
+  - image_path: /assets/images/WindsorCEPWinter.png
     alt: "Windsor Chess Enrichment Program Winter Session"
     title: "Windsor Chess Enrichment Program Winter Session"
     excerpt: "The Windsor Chess Enrichment Program Winter Session is starting after the New Year! Learn more by clicking the button below!"
