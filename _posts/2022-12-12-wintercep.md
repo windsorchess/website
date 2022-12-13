@@ -8,5 +8,5 @@ tags:
 
 The Windsor Chess Enrichment Program Winter Session is starting soon! 
 
-<img src="/assets/images/WindsorCEPwinter.png" alt="Tournament Flyer">
+<img src="https://alanbui1.github.io/chess-website/assets/images/WindsorCEPwinter.png" alt="Tournament Flyer">
 
