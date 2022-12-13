@@ -9,30 +9,30 @@ header:
     - label: "Learn More"
       url: "/about"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br /><br /><br /><br /><br />
+  A place to learn, play, and have fun! <br /><br /><br /><br /><br />
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/WinterChessChallenge.png
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Winter Chess Challenge"
+    excerpt: "Upcoming chess tournament in Windsor at Vincent Massey Secondary School!"
+    url: "/tournament/wintercc/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: assets/images/WindsorCEPWinter.png
+    alt: "Windsor Chess Enrichment Program Winter Session"
+    title: "Windsor Chess Enrichment Program Winter Session"
+    excerpt: "The Windsor Chess Enrichment Program Winter Session is starting after the New Year! Learn more by clicking the button below!"
+    url: "/wintercep/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"     
+  # - image_path: /assets/images/mm-free-feature.png
+  #   alt: "100% free"
+  #   title: "100% free"
+  #   excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  #   url: "/docs/license/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Learn more"     
     
 
 ---
