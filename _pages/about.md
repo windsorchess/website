@@ -1,7 +1,6 @@
 ---
 permalink: "/about/"
 title: "About Us"
-background-image: url('https://linesteppers.com/tutorials/RMarkdown/img/BannerImage_TreeBlossoms_4470x3024.jpg')
 ---
 
 <br>
@@ -22,7 +21,7 @@ Adam Gaisinsky has been playing competitive chess for 12 years and has represent
 <br>
 # Alan Bui
 <br>
-<img style="float: left; padding-right: 50px" src="/assets/images/adam.png"  width="30%" height="30%" >
+<img style="float: left; padding-right: 50px" src="/assets/images/alan.jpeg"  width="30%" height="30%" >
 
 Alan Bui is a competitive chess player, chess author, and chess coach. Having competed in the World Cadets Chess Championships in 2015, Pan-American Youth Chess Festival in 2019, and various North american youth chess Championships, he is a proud member of Team Canada. One notable achievement was being co-winner of the Ontario Youth Chess Championships in 2017. During the pandemic, Alan teamed up with Candidate Master Adam Gaisinsky to write their own Chessable course: [Typical Tactical Tricks: 500 Ways to Win!](https://www.chessable.com/typical-tactical-tricks-500-ways-to-win/course/77784/)
 
