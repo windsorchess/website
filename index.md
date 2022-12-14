@@ -6,8 +6,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/homeBackground.png
   actions:
-    - label: "Learn More"
+    - label: "About the Program"
       url: "/about"
+    - label: Meet the Teachers
+      url: "/about#Teachers"
   
 excerpt: >
   A place to learn, play, and have fun! <br /><br /><br /><br /><br />
