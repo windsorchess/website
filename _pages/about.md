@@ -6,7 +6,7 @@ title: "About Us"
 <br>
 # Adam Gaisinsky
 <br>
-<img style="float: left; padding-right: 50px" src="https://alanbui1.github.io/chess-website/assets/images/adam.png"  width="30%" height="30%" >
+<img style="float: left; padding-right: 50px" src="https://alanbui1.github.io/chess-website/assets/images/adam2.png"  width="30%" height="30%" >
 
 Adam Gaisinsky has been playing competitive chess for 12 years and has represented Team Canada 3 times at World Youth Championships. He achieved the title of FIDE Candidate Master in 2017 and is a master-level player. His most notable accomplishments are tying for third at the North American Junior Chess Championship and tying for fourth at the Pan-American Youth Chess Championship. Additionally, Adam has 4 years of chess teaching experience and has been a part of the ASCIS Chess Enrichment Program for the last 5 years. He now teaches the program and strives to provide affordable, quality chess classes to the local community. Recently, he teamed up with fellow teacher Alan Bui and wrote a chess book, [Typical Tactical Tricks: 500 Ways to Win!](https://www.chessable.com/typical-tactical-tricks-500-ways-to-win/course/77784/) Adam enjoys teaching motivated students and helping them learn to enjoy the game of chess!
 
