@@ -5,11 +5,10 @@ title: "About Us"
 
 ## About Us
 
-<img style="float: right; padding-left: 50px" src="https://alanbui1.github.io/chess-website/assets/images/teamPhoto.png"  width="30%" height="30%" >
+<img style="float: right; padding-left: 50px" src="https://alanbui1.github.io/chess-website/assets/images/teamPhoto.png"  width="60%" height="60%" >
 
 Windsor is well renowned in the chess world for producing many talented and high-level players. There is a rich culture of chess in the city and a large community built around competitive play. At the center of the community lies the Windsor Chess Enrichment Program, a program designed to provide quality, affordable chess classes for local youth. Students meet weekly in an engaging setting to develop their chess skills in a fun, effective way. Students learn in small groups and lessons are personalized to each group. The program is taught by CM Adam Gaisinsky, Eric Li, and Alan Bui with the Step Method books as the core. It is open to all players of all skill levels but mainly targeted toward beginner and intermediate youth players. Contact us at windsorchessep@gmail.com for more information!
 
-# Teachers
 <br>
 ## Adam Gaisinsky
 <br>

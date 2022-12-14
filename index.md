@@ -9,7 +9,7 @@ header:
     - label: "About the Program"
       url: "/about"
     - label: Meet the Teachers
-      url: "/about#Teachers"
+      url: "/about#adam-gaisinsky"
   
 excerpt: >
   A place to learn, play, and have fun! <br /><br /><br /><br /><br />
