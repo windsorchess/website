@@ -10,6 +10,8 @@ header:
       url: "/about"
     - label: Meet the Teachers
       url: "/about#adam-gaisinsky"
+    - label: Sign Up
+      url: "https://forms.gle/ZgywqjMu8QNQc8KJ7"
   
 excerpt: >
   A place to learn, play, and have fun! <br /><br /><br /><br /><br />
@@ -23,7 +25,7 @@ feature_row:
     url: "/wintercep/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    
+
   - image_path: /assets/images/WinterChessChallenge.png
     alt: "customizable"
     title: "Winter Chess Challenge"

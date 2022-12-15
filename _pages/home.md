@@ -36,4 +36,4 @@ feature_row:
 ---
 
 {% include feature_row %}
-{% include favicons.html %}
+<!-- {% include head.html %} -->
