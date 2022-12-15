@@ -10,10 +10,6 @@ The Windsor Chess Enrichment Program Winter Session is starting soon!
 
 <img src="https://alanbui1.github.io/chess-website/assets/images/WindsorCEPWinter.png" alt="Program Flyer" height = "60%" width = "60%"> 
 
-<h2>What will it cost me?</h2>
-
-The program fee is $150 for the entire session. If you would like to try the program out, we offer one free trial day to new students!
-
 <h2>Where is it?</h2>
 
 The program runs at First Lutheran Christian Academy: 3850 Locke St, Windsor, ON N9G 1S1 
@@ -21,13 +17,19 @@ The program runs at First Lutheran Christian Academy: 3850 Locke St, Windsor, ON
 
 <h2>When is it?</h2>
 
-The program runs from 4:00 - 5:30 PM Eastern Time on Saturdays. Due to March break, there will be no session on March 18. The Winter session will go from January 14 until April 8.
+The program runs from 4:00 - 5:30 PM Eastern Time on Saturdays. The program starts on January 14 and is 12 weeks long.
 
-<h2>What does the schedule look like?</h2>
+<h2>Schedule</h2>
 
 <p>4:00 - 4:45 | Step 1 and Step 2 classes start, Step 3 and Step 4 play training games</p>
 
 <p>4:45 - 5:30 | Step 3 and Step 4 classes start, Step 1 and Step 2 play training games</p>
+
+<h2>What will it cost me?</h2>
+
+The program fee is $150 for the entire session. If you would like to try the program out, we offer one free trial day to new students!
+
+
 
 <h2>Who is teaching?</h2>
 
