@@ -14,7 +14,9 @@ header:
       url: "https://forms.gle/ZgywqjMu8QNQc8KJ7"
   
 excerpt: >
-  A place to learn, play, and have fun! <br /><br /><br /><br /><br />
+  <br /><br /><br /><br /><br /><br/>
+  A place to learn, play, and have fun! 
+  
 
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
