@@ -16,13 +16,6 @@ excerpt: >
 
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
-  - image_path: /assets/images/WinterChessChallenge.png
-    alt: "customizable"
-    title: "Winter Chess Challenge"
-    excerpt: "Upcoming chess tournament in Windsor at Vincent Massey Secondary School!"
-    url: "/tournament/wintercc/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/WindsorCEPWinter.png
     alt: "Windsor Chess Enrichment Program Winter Session"
     title: "Windsor Chess Enrichment Program Winter Session"
@@ -30,6 +23,15 @@ feature_row:
     url: "/wintercep/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    
+  - image_path: /assets/images/WinterChessChallenge.png
+    alt: "customizable"
+    title: "Winter Chess Challenge"
+    excerpt: "Upcoming chess tournament in Windsor at Vincent Massey Secondary School!"
+    url: "/wintercc/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  
   # - image_path: /assets/images/mm-free-feature.png
   #   alt: "100% free"
   #   title: "100% free"
@@ -40,4 +42,5 @@ feature_row:
     
 
 ---
+
 {% include feature_row %}
