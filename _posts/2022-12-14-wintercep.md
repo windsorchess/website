@@ -33,6 +33,10 @@ The program runs from 4:00 - 5:30 PM Eastern Time on Saturdays. The program star
 
 The program fee is $150 for the entire session. If you would like to try the program out, we offer one free trial day to new students!
 
+<h2>How do I register?</h2>
+
+You can register by completing the form at this [link](https://forms.gle/3ND7GmLaEuDvHNAj6)
+
 <h2>Who is teaching?</h2>
 
 Lessons are taught by Candidate Master Adam Gaisinsky, Eric Li, and Alan Bui. More details can be found here: <a href = "/about/#adam-gaisinsky">About the Teachers</a>
