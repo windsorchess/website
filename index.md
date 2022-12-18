@@ -31,8 +31,8 @@ feature_row:
   - image_path: /assets/images/WinterChessChallenge.png
     alt: "customizable"
     title: "Winter Chess Challenge"
-    excerpt: "Upcoming chess tournament in Windsor at Vincent Massey Secondary School!"
-    url: "/wintercc/"
+    excerpt: "Past chess tournament at Vincent Massey Secondary School! View results now!"
+    url: "/wintercc-post/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   
