@@ -4,6 +4,7 @@ title: "Windsor Chess Enrichment Program Winter Session"
 tags:
   - Program
   - "2022"
+permalink: /wintercep/
 ---
 
 The Windsor Chess Enrichment Program Winter Session is starting soon! 
